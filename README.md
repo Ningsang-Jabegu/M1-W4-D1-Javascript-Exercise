@@ -10,39 +10,39 @@ The goal of this exercise was to practice JavaScript fundamentals in a practical
 Below are the images that highlight key moments and outputs from the exercise. You can view them directly without opening individual files:
 
 1. **Console Screenshot 1**  
-   ![Console Output Example 1](https://github.com/Ningsang-Jabegu/M1-W4-D1-Javascript-Exercise/blob/main/dem3w1.PNG)  
+   ![Console Output Example 1](https://github.com/Ningsang-Jabegu/M1-W4-D1-Javascript-Exercise/blob/main/demo3w1.PNG)  
    _Description: Using array's `.indexOf` method returns `specific index number` of the first occurance item/sub-string present in array._
 
 2. **Console Screenshot 2**  
-   ![Console Output Example 2](https://github.com/Ningsang-Jabegu/M1-W4-D1-Javascript-Exercise/blob/main/dem3w2.PNG)  
+   ![Console Output Example 2](https://github.com/Ningsang-Jabegu/M1-W4-D1-Javascript-Exercise/blob/main/demo3w2.PNG)  
    _Description: Using array's `.indexOf` method returns `-1` when the item is not present in array list.._
 
 3. **Console Screenshot 3**  
-   ![Console Output Example 3](https://github.com/Ningsang-Jabegu/M1-W4-D1-Javascript-Exercise/blob/main/dem3w3.PNG)  
+   ![Console Output Example 3](https://github.com/Ningsang-Jabegu/M1-W4-D1-Javascript-Exercise/blob/main/demo3w3.PNG)  
    _Description: Using array's `.lastIndexOf` method. This will return the index value of last occurance of given string e.g `"apples"`_
 
 4. **Console Screenshot 4**  
-   ![Console Output Example 4](https://github.com/Ningsang-Jabegu/M1-W4-D1-Javascript-Exercise/blob/main/dem3w4.PNG)  
+   ![Console Output Example 4](https://github.com/Ningsang-Jabegu/M1-W4-D1-Javascript-Exercise/blob/main/demo3w4.PNG)  
    _Description: Using array's `.forEach` method to print all the items of an array and their respective index number._
 
 5. **Console Screenshot 5**  
-   ![Console Output Example 5](https://github.com/Ningsang-Jabegu/M1-W4-D1-Javascript-Exercise/blob/main/dem3w5.PNG)  
+   ![Console Output Example 5](https://github.com/Ningsang-Jabegu/M1-W4-D1-Javascript-Exercise/blob/main/demo3w5.PNG)  
    _Description: Using array's `.includes` method to check whether the array has particular sub-string/element or not. It returns either `true` or `false` based on the search._
 
 6. **Console Screenshot 6**  
-   ![Console Output Example 6](https://github.com/Ningsang-Jabegu/M1-W4-D1-Javascript-Exercise/blob/main/dem3w6.PNG)  
+   ![Console Output Example 6](https://github.com/Ningsang-Jabegu/M1-W4-D1-Javascript-Exercise/blob/main/demo3w6.PNG)  
    _Description: Using array's `.every` method. This will return either `true` or `false` based on the condition given within the parameter of `.every` method as a function. eg. `fruits.every(myFunction);` and defining function with the condition(s) as `function myFunction(fruit) {return fruits.length > 6;}` returns `false` if the length of the fruits array's each item exceeds this condition. And if all the items agrees on the conditions then this method return true. And if the array is blank, it returns nothing._
 
 7. **Console Screenshot 7**  
-   ![Console Output Example 7](https://github.com/Ningsang-Jabegu/M1-W4-D1-Javascript-Exercise/blob/main/dem3w7.PNG)  
+   ![Console Output Example 7](https://github.com/Ningsang-Jabegu/M1-W4-D1-Javascript-Exercise/blob/main/demo3w7.PNG)  
    _Description: Using array's `.every` method. This screenshot's JS code returns `true`, the reason for this is explained in the point number 6 above (more specific in eg. part if you want to learn more)._
 
 8. **Console Screenshot 8**  
-   ![Console Output Example 8](https://github.com/Ningsang-Jabegu/M1-W4-D1-Javascript-Exercise/blob/main/dem3w8.PNG)  
+   ![Console Output Example 8](https://github.com/Ningsang-Jabegu/M1-W4-D1-Javascript-Exercise/blob/main/demo3w8.PNG)  
    _Description: Using array's `.some` method. If the item within the array aggrees with the condition at least once then this method returns `true` and if the array's every element disagrees the condition then returns `false`._
 
 9. **Console Screenshot 9**  
-   ![Console Output Example 9](https://github.com/Ningsang-Jabegu/M1-W4-D1-Javascript-Exercise/blob/main/dem3w9.PNG)  
+   ![Console Output Example 9](https://github.com/Ningsang-Jabegu/M1-W4-D1-Javascript-Exercise/blob/main/demo3w9.PNG)  
    _Description: Using array's `.some` method and works as stated above in point number 8. The only difference between point number 8 and 9 is, point number 8 returns `true`, and 9 returns `false`._
 
 10. **Console Screenshot 10**  
